@@ -3,6 +3,6 @@ Completed “Python Programming: A Step-by-Step Programming Course” on Udemy, 
 # My Certifications
 
 ## Python Programming: A Step-by-Step Programming Course  
-Certificate: [Python Basics Certificate](./Python_Basics_Certificate.pdf)  
+Certificate: [Python Basics Certificate](./149639313.jpg)  
 Platform: Udemy  
 Description: Completed a comprehensive Python basics course focusing on programming fundamentals.
