@@ -23,3 +23,12 @@
 
 📜 **Certificate:**  
 ![View Deloitte Internship Certificate (PDF)](./E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_R88cgDrGfwd3LoHAn_1751614215224_completion_certificate_page-0001.jpg)
+ 
+---
+
+## 4. C Programming – Basic to Intermediate  
+**📍 Platform:** Udmey
+**📝 Description:** Gained foundational to intermediate-level skills in C programming, covering data types, control structures, functions, arrays, pointers, and memory management.  
+
+📜 **Certificate:**  
+![View C Programming Certificate](./UC-6a964178-d967-4500-9338-ca5bbf7fcb42.jpg)
