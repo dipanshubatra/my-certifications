@@ -23,4 +23,4 @@
 **📝 Description:** Completed a virtual internship with Deloitte, working on real-world consulting tasks such as business analysis, digital transformation strategy, and tech solution recommendations.
 
 📜 **Certificate:**  
-[View Deloitte Internship Certificate (PDF)](./E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_R88cgDrGfwd3LoHAn_1751614215224_completion_certificate.pdf)
+[View Deloitte Internship Certificate (PDF)](./E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_R88cgDrGfwd3LoHAn_1751614215224_completion_certificate_page-0001.jpg)
