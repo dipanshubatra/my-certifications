@@ -14,8 +14,7 @@
 **📝 Description:** Learned core OOP concepts such as classes, objects, inheritance, polymorphism, encapsulation, and abstraction.
 
 📜 **Certificate:**  
-[View OOP Certificate (PDF)](./OOP_in_Python_Certificate.pdf)
-
+![View OOP Certificate (PDF)](./UC-772a2989-bbeb-4395-84d4-0255154bb094.jpg)
 ---
 
 ## 3. Deloitte Technology Consulting Virtual Internship  
@@ -23,4 +22,4 @@
 **📝 Description:** Completed a virtual internship with Deloitte, working on real-world consulting tasks such as business analysis, digital transformation strategy, and tech solution recommendations.
 
 📜 **Certificate:**  
-[View Deloitte Internship Certificate (PDF)](./E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_R88cgDrGfwd3LoHAn_1751614215224_completion_certificate_page-0001.jpg)
+![View Deloitte Internship Certificate (PDF)](./E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_R88cgDrGfwd3LoHAn_1751614215224_completion_certificate_page-0001.jpg)
