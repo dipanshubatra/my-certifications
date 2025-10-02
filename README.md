@@ -47,4 +47,5 @@
 
 ## 6. Participation & eCertificate  
 📜 **Certificate:**  
-![eCertificate](./eCertificate.pdf)
+![eCertificate](./eCertificate_page-0001(1).jpg)
+
