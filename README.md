@@ -49,4 +49,4 @@
 **📝 Description:** General participation recognition.  
 
 📜 **Certificate:**  
-![Participation Certificate](./eCertificate_page-0001 (1).jpg)
+![Participation Certificate](./ORACLE.jpg)
